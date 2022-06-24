@@ -1,0 +1,38 @@
+body {
+	background: #BEF7FF;
+	color:#f4f4f4;
+}
+header {
+    background-color: #BEF7FF;
+    height: 60px;
+  }
+  .cartOne{
+    flex: 1 1 280px;
+      margin:10px;
+      background: #5be2fa;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+ 
+ border-radius: 30px;
+ }
+.theme-button {
+	color: #f4f4f4;
+	background: #26a1c6;
+}
+.theme-button:hover {
+	background: #0a6480;
+}
+.footer-wrapper{
+    height: 194px;
+    width: 1250px;
+    display: flex;
+    background-color:#dfdfdf;
+    border-radius: 30px;
+    flex-flow: row nowrap;
+    
+    
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+
+}
